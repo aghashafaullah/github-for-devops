@@ -32,7 +32,11 @@ Basic Commands
                                    git clone <repo>
                           Fork -> Github - Github
 11- git pull
-       
+12- git branch
+13- git branch <branch name>
+14- git checkout -b <branch name>
+15- git switch <branch name>
+16- 
 }
 
 
