@@ -1,0 +1,44 @@
+1. Introduction to Version Control - Done
+
+2. Setting Up Git and GitHub - Done 
+
+3. Working with Git: Commit, Branchs, and Merges
+
+4. Collaborative Workflows with GitHub
+
+5. Managing Pull Requests and Code Reviews
+
+6. Automating Workflows with GitHub Actions
+
+7. Q&A and Hands-On Practice
+
+8. Conclusion and Resources
+
+
+Commands {
+Basic Commands
+
+1- git init
+2- git status
+3- git add
+4- git rm --cached
+5- git commit -m "message for commit"
+6- git restore <file>
+7- history
+8- git remote
+9- git push
+10- Github repo -> 
+                          Clone -> Github - Local
+                                   git clone <repo>
+                          Fork -> Github - Github
+11- 
+       
+}
+
+
+Note: {
+
+1- Difference between File System & Version control System.
+
+2- 
+}
