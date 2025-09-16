@@ -31,7 +31,7 @@ Basic Commands
                           Clone -> Github - Local
                                    git clone <repo>
                           Fork -> Github - Github
-11- 
+11- git pull
        
 }
 
